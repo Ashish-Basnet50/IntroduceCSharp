@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\netcoreapp3.1\IntroductionToCSharp.exe
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\netcoreapp3.1\IntroductionToCSharp.deps.json
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\netcoreapp3.1\IntroductionToCSharp.runtimeconfig.json
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\netcoreapp3.1\IntroductionToCSharp.runtimeconfig.dev.json
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\netcoreapp3.1\IntroductionToCSharp.dll
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\netcoreapp3.1\IntroductionToCSharp.pdb
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.AssemblyInfo.cs
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.dll
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.pdb
+C:\Users\dell\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.genruntimeconfig.cache
