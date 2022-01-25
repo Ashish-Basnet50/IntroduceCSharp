@@ -18,6 +18,20 @@ namespace IntroductionToCSharp
             string Name = "One\nTwo\nThree";
             Console.WriteLine(Name);
             */
+
+            bool? Areyoustudent = null;
+            if (Areyoustudent == true)
+            {
+                Console.WriteLine("Yes");
+            }
+            else if (Areyoustudent == false)
+            {
+                Console.WriteLine("NO");
+            }
+            else
+            {
+                Console.WriteLine("Not Selected");
+            }
         }
     }
 }
