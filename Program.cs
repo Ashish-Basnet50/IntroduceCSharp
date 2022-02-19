@@ -54,7 +54,7 @@ namespace IntroductionToCSharp
 
             //try parse method
 
-            String strnumber = "100ST";
+            /*String strnumber = "100ST";
 
             int Result = 0;
 
@@ -68,6 +68,42 @@ namespace IntroductionToCSharp
             {
                 Console.WriteLine("Please Enter Valid Number");
             }
+            */
+
+            //Switch Statement || if statement
+
+            Console.WriteLine("Please enter a number");
+                int usernumber = int.Parse(Console.ReadLine());
+            /*if (usernumber== 10)
+            {
+                Console.WriteLine("your number is 10");
+            }
+            else if (usernumber == 20)
+            {
+                Console.WriteLine("your number is 20");
+            }
+            else if (usernumber == 30)
+            {
+                Console.WriteLine("your number is 30");
+            }
+            else
+            {
+                Console.WriteLine("your number is not 10,20,& 30");
+            }
+            */
+
+            switch (usernumber)
+            {
+                case 10:
+                case 20:
+                case 30:
+                    Console.WriteLine("your number is {0}", usernumber);
+                    break;
+                default:
+                    Console.WriteLine("your number is not 10,20,& 30");
+                    break;
+            }
+
 
         }
     }
